@@ -14,8 +14,8 @@ Technologies I am currently learning and using:
 
 * **Cloud & Infrastructure:** AWS (EC2, Security Groups), Linux (Ubuntu/WSL)
 * **DevOps & Tools:** SSH, Bash Scripting, Git & GitHub
-* **Languages:** Python, Java (Basic), SQL
-* **Interests:** Server Administration, Network Security, Automation
+* **Languages:** Python, Java (Basic), HTML, CSS, JS, C# and C++ (Basic)
+* **Interests:** Server Administration, Network Security, Automation, Web Design
 
 ---
 
