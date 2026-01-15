@@ -1,47 +1,24 @@
-#### Hi there, I'm Akın 👋
+### Hi there! I'm Akın 👋
 
-**Computer Programming Student & Aspiring DevOps Engineer**
+I'm a Computer Programming student on a journey to merge **DevOps agility** with **Cyber Security paranoia**. Currently focused on Cloud Infrastructure, Linux Systems, and Ethical Hacking.
 
-I love coding, but I have a bigger passion for managing the infrastructure where code lives. Currently, I am bridging the gap between software development and system administration to become a skilled **DevOps Engineer**.
+🌱 **I’m currently learning:**
+- **Cloud:** AWS (EC2, S3, VPC management)
+- **Security:** Ethical Hacking & Network Security (Kali Linux)
+- **OS:** Linux Administration (Ubuntu & Kali)
+- **Scripting:** Python & Bash for automation
 
-My goal is to master Cloud technologies, Automation, and System Security.
+🎯 **My Goal:**
+To become a specialized **DevSecOps Engineer**. I believe security shouldn't be an afterthought, but a part of the pipeline.
 
----
+🛠️ **Tech Stack:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🛠️ Tech Stack & Toolbox
-
-Technologies I am currently learning and using:
-
-* **Cloud & Infrastructure:** AWS (EC2, Security Groups), Linux (Ubuntu/WSL)
-* **DevOps & Tools:** SSH, Bash Scripting, Git & GitHub
-* **Languages:** Python, Java (Basic), HTML, CSS, JS, C# and C++ (Basic)
-* **Interests:** Server Administration, Network Security, Automation, Web Design
-
----
-
-### 🚀 What I'm Working On
-
-* ☁️ **AWS Cloud Projects:** Managing Linux servers on Amazon Web Services, optimizing for cost (FinOps) and security.
-* 🐧 **Linux & Terminal:** Living in the CLI (Command Line Interface) instead of Windows GUI.
-* 🎮 **Game Server Management:** Deploying high-performance, modded Minecraft servers on cloud-based architecture.
+⚡ **Fun Fact:**
+I enjoy setting up servers on AWS just to see how secure I can make them (or how fast I can break them).
 
 ---
-
-### 🌱 My Roadmap
-
-- [x] Mastering Linux Terminal 🐧
-- [x] Deploying First Server on AWS ☁️
-- [ ] Learning Docker & Containers 🐳
-- [ ] Building CI/CD Pipelines (Jenkins/GitHub Actions) ⚙️
-- [ ] System Automation with Python 🐍
-
----
-
-### 📫 Connect with Me
-
-I am always open to discussing technology, DevOps, or video games:
-
-* [Email](mailto:shiinacim@gmail.com)
-
----
-⭐️ *Thanks for visiting! If you find my projects interesting, feel free to star them.*
+*Documenting my journey one commit at a time.*
